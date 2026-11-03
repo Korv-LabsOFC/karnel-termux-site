@@ -208,3 +208,9 @@ MIT © Israel Marques
   </a>
 
 </p>
+
+---
+
+## KORV Labs
+
+This project is part of the **KORV Labs** ecosystem — an independent technology lab building software, developer tools, and digital products.
