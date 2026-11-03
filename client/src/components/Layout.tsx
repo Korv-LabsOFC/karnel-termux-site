@@ -272,15 +272,16 @@ export default function Layout({ children }: { children: React.ReactNode }) {
         {/* Footer */}
         <footer className="bg-card border-t border-border p-6 text-center text-sm text-muted-foreground">
           <p>
-            Karnel Termux — Built by{" "}
+            Karnel Termux — A{" "}
             <a
-              href="https://github.com/karnel-termuxOFC"
+              href="https://github.com/karnel-termuxOFC/karnel-termuxOFC"
               target="_blank"
               rel="noopener noreferrer"
               className="text-accent hover:underline font-semibold"
             >
-              israel marques
-            </a>
+              KORV Labs
+            </a>{" "}
+            project
           </p>
           <p className="mt-2 text-xs">
             <a
