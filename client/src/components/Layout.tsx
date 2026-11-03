@@ -274,7 +274,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
           <p>
             Karnel Termux — A{" "}
             <a
-              href="https://github.com/karnel-termuxOFC/karnel-termuxOFC"
+              href="https://github.com/Korv-LabsOFC/Korv-LabsOFC"
               target="_blank"
               rel="noopener noreferrer"
               className="text-accent hover:underline font-semibold"
@@ -302,7 +302,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
             </a>
             {" · "}
             <a
-              href="https://github.com/karnel-termuxOFC/karnel-termux"
+              href="https://github.com/Korv-LabsOFC/karnel-termux"
               target="_blank"
               rel="noopener noreferrer"
               className="text-accent hover:underline"
@@ -312,7 +312,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
             {" · "}
 
             <a
-              href="https://github.com/karnel-termuxOFC/karnel-termux/blob/main/LICENSE"
+              href="https://github.com/Korv-LabsOFC/karnel-termux/blob/main/LICENSE"
               target="_blank"
               rel="noopener noreferrer"
               className="text-accent hover:underline"
